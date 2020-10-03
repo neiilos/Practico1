@@ -1,0 +1,5 @@
+Git es un sistema de control de versiones distribuido, libre y open source, diseñado
+para manejar desde pequeños a grandes proyectos con rapidez y eficacia.
+
+GitHub es una plataforma de desarrollo colaborativo de software para alojar
+proyectos utilizando el sistema de control de versiones Git.
